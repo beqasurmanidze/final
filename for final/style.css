@@ -1,0 +1,59 @@
+.btnEdit {
+  width: 50px;
+  height: 50px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.show {
+  display: block;
+}
+#redBox {
+  display: none;
+  background-color: red;
+  width: 10px;
+  height: 10px;
+}
+.redColor {
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+}
+
+.container3 {
+  display: flex;
+}
+.greenColor {
+  width: 100px;
+  height: 50px;
+  background-color: green;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+.blueColor {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  margin-top: 100px;
+  margin-left: 10px;
+}
